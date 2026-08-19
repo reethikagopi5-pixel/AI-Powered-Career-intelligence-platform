@@ -1,0 +1,50 @@
+[
+  {
+    "id": "usr_mrykkjbwxiuf",
+    "email": "reethikagopi5@gmail.com",
+    "name": "Reethika G",
+    "targetRole": "Electrical & Electronics Engineer / Software Developer",
+    "passwordHash": "$2b$10$E5FKJng1GaLuNNnCLHey9ORVmwlMupHkq4tzQvxs5Fu1EYi0dtv6O",
+    "phone": "6381375871",
+    "college": "Sona College of Technology, Salem",
+    "education": "B.E. Electrical and Electronics Engineering (CGPA: 8.645, 2023–2027)",
+    "experienceYears": 2,
+    "skills": [
+      "Digital Electronics",
+      "Control Systems",
+      "Electrical Machines",
+      "Power Systems",
+      "Electrical Drives",
+      "SQL (DBMS)",
+      "Java",
+      "Data Structures & Algorithms",
+      "Internet of Things (IoT)",
+      "Cloud Computing",
+      "ESP32 & ESP8266",
+      "C / C++",
+      "Problem Solving"
+    ],
+    "certifications": [
+      "Java Programming Fundamentals - INFOSYS SPRINGBOARD",
+      "Data Structures & Algorithms (Java) - INFOSYS SPRINGBOARD",
+      "Computational Problem Solving - INFOSYS SPRINGBOARD",
+      "Database Management Systems - INFOSYS SPRINGBOARD",
+      "Introduction to Internet of Things - IIT Kharagpur NPTEL",
+      "Cloud Computing - IIT Kharagpur NPTEL",
+      "Sensors and Actuators - IIT Kharagpur NPTEL",
+      "Design Thinking – A Primer - IIT Kharagpur NPTEL"
+    ],
+    "projects": [
+      "Electro Path – BLE-Based Indoor Object Detection System (ESP32, BLE, C, RSSI)",
+      "Smart Voice-Alert Battery Monitoring System (ESP8266, C, IoT, Wi-Fi)"
+    ],
+    "careerInterests": [
+      "Power Systems",
+      "Electrical Drives",
+      "Embedded Systems & IoT",
+      "SQL / Database Management",
+      "Software Development"
+    ],
+    "profileCompletion": 95
+  }
+]

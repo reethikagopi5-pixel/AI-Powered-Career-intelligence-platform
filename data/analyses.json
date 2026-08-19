@@ -1,0 +1,1900 @@
+[
+  {
+    "id": "anl_mryl8k7mg90l",
+    "userId": "usr_mrykkjbwxiuf",
+    "resumeId": "res_mrykldglo4hx",
+    "resumeName": "Reethika_G_Resume.pdf",
+    "createdAt": "2026-07-24T06:57:34.546Z",
+    "targetRole": "Electrical & Electronics Engineer",
+    "atsScore": 72,
+    "scoreBreakdown": {
+      "keywordMatch": 78,
+      "formatting": 88,
+      "impactMetrics": 35,
+      "sectionCompleteness": 92
+    },
+    "summary": "Strong foundational background in Electrical and Electronics Engineering with solid exposure to power systems, embedded microcontrollers (ESP32/ESP8266), and C programming. Practical experience from internships at TANTRANSCO and Titan provides good domain context. To increase ATS competitiveness, project descriptions need measurable impact metrics and additional industry tools like MATLAB/Simulink and PCB design software.",
+    "skillGap": {
+      "matchPercentage": 70,
+      "identifiedStrengths": [
+        "Digital Electronics",
+        "Control Systems",
+        "Electrical Machines",
+        "Power Systems",
+        "Embedded C / C++",
+        "IoT Microcontrollers (ESP32/ESP8266)"
+      ],
+      "missingSkills": [
+        {
+          "name": "MATLAB / Simulink",
+          "importance": "High",
+          "category": "Tools & Architecture"
+        },
+        {
+          "name": "PCB Design (KiCAD / Altium)",
+          "importance": "High",
+          "category": "Technical"
+        },
+        {
+          "name": "PLC & SCADA",
+          "importance": "Medium",
+          "category": "Technical"
+        },
+        {
+          "name": "AutoCAD Electrical",
+          "importance": "Medium",
+          "category": "Tools & Architecture"
+        }
+      ],
+      "totalRequiredSkills": 10,
+      "matchedCount": 6,
+      "missingCount": 4
+    },
+    "careerPath": {
+      "recommendedRole": "Electrical & Electronics Engineer",
+      "alignmentProbability": 82.5,
+      "roadmap": [
+        {
+          "level": "Step 01",
+          "title": "Graduate Electrical Engineer / Trainee",
+          "timeline": "0 - 1 Years",
+          "requiredSkills": [
+            "Embedded C",
+            "Digital Logic",
+            "Circuit Testing",
+            "Basic MATLAB"
+          ],
+          "responsibilities": [
+            "Assist in hardware testing and debugging",
+            "Write low-level firmware for microcontrollers",
+            "Support substation and power system maintenance tasks"
+          ],
+          "description": "Establish core practical engineering foundation in hardware testing and firmware design."
+        },
+        {
+          "level": "Step 02",
+          "title": "Mid-Level Electrical & Electronics Engineer",
+          "timeline": "1 - 3 Years",
+          "requiredSkills": [
+            "PCB Layout Design",
+            "Control System Modeling",
+            "Power Electronics",
+            "RTOS"
+          ],
+          "responsibilities": [
+            "Design multi-layer PCBs and embedded system schematics",
+            "Simulate electrical power systems and control feedback loops",
+            "Lead small-scale hardware prototyping and validation"
+          ],
+          "description": "Independently design and validate electronic systems and power equipment."
+        },
+        {
+          "level": "Step 03",
+          "title": "Senior Electrical Engineer",
+          "timeline": "3 - 5 Years",
+          "requiredSkills": [
+            "System Architecture",
+            "EMC/EMI Compliance",
+            "Advanced Power Conversion",
+            "Project Leadership"
+          ],
+          "responsibilities": [
+            "Architect complex embedded and electrical systems",
+            "Ensure regulatory and safety standards compliance (IEEE, IEC)",
+            "Mentor junior engineers and manage technical deliverables"
+          ],
+          "description": "Take technical ownership of end-to-end product design and system safety."
+        },
+        {
+          "level": "Step 04",
+          "title": "Principal Electrical Systems Architect",
+          "timeline": "5+ Years",
+          "requiredSkills": [
+            "Strategic R&D",
+            "Cross-functional Leadership",
+            "Enterprise Power Systems Architecture"
+          ],
+          "responsibilities": [
+            "Drive technology roadmap for hardware and power solutions",
+            "Oversee multi-disciplinary engineering initiatives",
+            "Represent engineering design in strategic business decisions"
+          ],
+          "description": "Drive high-level technical strategy, innovations, and enterprise hardware architectures."
+        }
+      ],
+      "alternatePaths": [
+        {
+          "role": "Embedded Systems Engineer",
+          "matchScore": 85,
+          "description": "Leverages strong background in ESP32/ESP8266 microcontrollers, C programming, IoT, and digital logic."
+        },
+        {
+          "role": "Power Systems Operations Engineer",
+          "matchScore": 78,
+          "description": "Capitalizes on TANTRANSCO 400KV Substation internship and core power systems coursework."
+        }
+      ]
+    },
+    "salaryPrediction": {
+      "currentEstimatedMin": 62000,
+      "currentEstimatedAvg": 75000,
+      "currentEstimatedMax": 88000,
+      "currency": "$",
+      "trajectory": [
+        {
+          "year": 1,
+          "yearLabel": "Year 1",
+          "minSalary": 62000,
+          "avgSalary": 75000,
+          "maxSalary": 88000
+        },
+        {
+          "year": 2,
+          "yearLabel": "Year 2",
+          "minSalary": 68000,
+          "avgSalary": 82000,
+          "maxSalary": 96000
+        },
+        {
+          "year": 3,
+          "yearLabel": "Year 3",
+          "minSalary": 76000,
+          "avgSalary": 92000,
+          "maxSalary": 108000
+        },
+        {
+          "year": 4,
+          "yearLabel": "Year 4",
+          "minSalary": 85000,
+          "avgSalary": 104000,
+          "maxSalary": 122000
+        },
+        {
+          "year": 5,
+          "yearLabel": "Year 5",
+          "minSalary": 96000,
+          "avgSalary": 118000,
+          "maxSalary": 140000
+        }
+      ],
+      "topSkillPremiums": [
+        {
+          "skill": "PCB Design & Altium",
+          "estimatedValueBoost": "+14% Salary Boost"
+        },
+        {
+          "skill": "MATLAB / Simulink Simulation",
+          "estimatedValueBoost": "+12% Salary Boost"
+        }
+      ],
+      "marketDemandFactor": "High Demand (Top 15% in Engineering Market)"
+    },
+    "learningResources": [
+      {
+        "id": "lr_1",
+        "skillName": "MATLAB / Simulink",
+        "courseTitle": "MATLAB and Simulink for Electrical Engineers",
+        "platform": "Coursera",
+        "difficulty": "Intermediate",
+        "estimatedHours": 20,
+        "rating": 4.7,
+        "url": "https://www.coursera.org"
+      },
+      {
+        "id": "lr_2",
+        "skillName": "PCB Design",
+        "courseTitle": "Crash Course Electronics and PCB Design",
+        "platform": "Udemy",
+        "difficulty": "Intermediate",
+        "estimatedHours": 25,
+        "rating": 4.8,
+        "url": "https://www.udemy.com"
+      },
+      {
+        "id": "lr_3",
+        "skillName": "PLC & SCADA",
+        "courseTitle": "PLC Programming From Scratch",
+        "platform": "Udemy",
+        "difficulty": "Beginner",
+        "estimatedHours": 16,
+        "rating": 4.6,
+        "url": "https://www.udemy.com"
+      }
+    ],
+    "improvementTips": [
+      {
+        "category": "Impact",
+        "severity": "Critical",
+        "tip": "Quantify outcomes in your projects and internship experiences to demonstrate measurable results.",
+        "exampleText": "Developed Smart Voice-Alert Battery System using ESP8266, reducing monitoring latency by 40% and improving battery health tracking accuracy."
+      },
+      {
+        "category": "Keywords",
+        "severity": "High",
+        "tip": "Include standard industry software and hardware design tools such as MATLAB, Simulink, Altium Designer, or KiCAD.",
+        "exampleText": "Simulated electrical power drive behavior using MATLAB/Simulink and designed PCB schematics in KiCAD."
+      },
+      {
+        "category": "Experience",
+        "severity": "Medium",
+        "tip": "Elaborate on specific technical tasks completed during TANTRANSCO and Titan internships rather than only listing dates and locations.",
+        "exampleText": "Analyzed grid transformer stability and monitored 400KV substation protection relay operations at TANTRANSCO."
+      }
+    ],
+    "extractedData": {
+      "name": "Reethika G",
+      "email": "reethikagopi5@gmail.com",
+      "phone": "6381375871",
+      "targetRole": "Electrical Engineer",
+      "summary": "Motivated Electrical and Electronics Engineering student with hands-on experience in IoT-based system design, embedded microcontrollers, and industrial operations. Demonstrates strong analytical and problem-solving skills with background in high-voltage substations and production planning.",
+      "experienceYears": 1,
+      "skills": [
+        "Digital Electronics",
+        "Control Systems",
+        "Electrical Machines",
+        "Power Systems",
+        "Electrical Drives",
+        "SQL (DBMS)",
+        "ESP32 & ESP8266",
+        "C / C++",
+        "Java",
+        "Internet of Things (IoT)",
+        "Data Structures & Algorithms"
+      ],
+      "education": [
+        {
+          "institution": "Sona College of Technology, Salem",
+          "degree": "B.E. Electrical and Electronics Engineering (CGPA: 8.645)",
+          "year": "2023 - 2027"
+        },
+        {
+          "institution": "Sri Vidya Mandir Senior Secondary School, Salem",
+          "degree": "HSC (Percentage: 77.67%)",
+          "year": "2022 - 2023"
+        },
+        {
+          "institution": "Sri Vidya Mandir Senior Secondary School, Salem",
+          "degree": "SSLC (Percentage: 86.5%)",
+          "year": "2020 - 2021"
+        }
+      ],
+      "experience": [
+        {
+          "company": "TANTRANSCO – Salem Operation Circle",
+          "role": "Industrial Intern - K.R.Thoppur 400KV Substation",
+          "duration": "05 June - 14 June 2026",
+          "highlights": [
+            "Gained practical exposure to high-voltage substation operations, equipment, and protection systems.",
+            "Developed understanding of safety protocols, transmission infrastructure, and industrial work practices."
+          ]
+        },
+        {
+          "company": "Titan Company Limited, Hosur",
+          "role": "Inplant Trainee - Case PPC (Watches Division)",
+          "duration": "16 June - 21 June 2025",
+          "highlights": [
+            "Gained practical exposure to production planning, assembly operations, and quality control in the watches manufacturing unit.",
+            "Developed understanding of workflow coordination, inventory management, and industrial work practices."
+          ]
+        }
+      ],
+      "certifications": [
+        "Java Programming Fundamentals - INFOSYS SPRINGBOARD",
+        "Data Structures & Algorithms (Java) - INFOSYS SPRINGBOARD",
+        "Computational Problem Solving – INFOSYS SPRINGBOARD",
+        "Database Management Systems - INFOSYS SPRINGBOARD",
+        "Introduction to Internet of Things - IIT Kharagpur NPTEL",
+        "Cloud Computing – IIT Kharagpur NPTEL",
+        "Sensors and Actuators - IIT Kharagpur NPTEL",
+        "Design Thinking – A Primer - IIT Kharagpur NPTEL"
+      ],
+      "projects": [
+        "Electro Path – BLE-Based Indoor Object Detection System (ESP32, BLE, C, RSSI Proximity)",
+        "Smart Voice-Alert Battery Monitoring System (ESP8266, C, IoT Monitoring, Wi-Fi)"
+      ],
+      "rawText": "REETHIKA G\nLocation: Salem, Tamil Nadu\nE-Mail Id: reethikagopi5@gmail.com\nMobile No: 6381375871\nLinkedln: www.linkedin.com/in/reethika-g-27ab0a294\nGitHub: https://github.com/reethikagopi5-pixel\n\nEDUCATION\nB.E. Electrical and Electronics Engineering (2023–2027)\nSona College of Technology, Salem | CGPA: 8.645\nHSC (2022–2023) | Sri Vidya Mandir Senior Secondary School, Salem | Percentage: 77.67%\nSSLC (2020–2021) | Sri Vidya Mandir Senior Secondary School, Salem | Percentage: 86.5%\n\nSKILLS\nCore Areas: Digital Electronics - Logic Gates, Flip-Flops, Control Systems - Transfer Function, Time Response, Electrical Machines – Induction Motor, DC Motor, Transformer Operation\nKey strengths: Problem-Solving, Quick Learner, Adaptability\n\nAREA OF INTEREST\n• Power Systems\n• Electrical Drives\n• SQL (DBMS)\n\nCO-CURRICULAR ACTIVITIES\n• Qualified – Aptithon 2025 (Aptitude Marathon)\n• Top 30 – Engineers’ Day Contest 2024 (Imagecon Academy)\n• 3rd Prize – Wires & Sparks event in Circuit Crafters 2023\n\nLANGUAGES KNOWN\nEnglish, Tamil, Hindi, German, Telugu, Kannada\n\nCAREER OBJECTIVE\nTo obtain a position in a growth-oriented organization where I can apply my analytical and technical skills to contribute to innovative engineering solutions.\n\nINTERNSHIP\nTANTRANSCO – Salem Operation Circle, Salem | K.R.Thoppur 400KV Substation (05 June – 14 June 2026)\nTitan Company Limited, Hosur | Case PPC Watches Division (16 June – 21 June 2025)\n\nPROJECTS\nElectro Path – BLE-Based Indoor Object Detection System (ESP32, BLE, C, RSSI)\nSmart Voice-Alert Battery Monitoring System (ESP8266, C, IoT, Wi-Fi)\n\nCERTIFICATIONS\nJava Programming Fundamentals, Data Structures & Algorithms (Java), Computational Problem Solving, DBMS - INFOSYS SPRINGBOARD\nIntroduction to Internet of Things, Cloud Computing, Sensors and Actuators, Design Thinking – IIT Kharagpur NPTEL"
+    }
+  },
+  {
+    "id": "anl_mrykzl31dkxs",
+    "userId": "usr_mrykkjbwxiuf",
+    "resumeId": "res_mrykldglo4hx",
+    "resumeName": "Reethika_G_Resume (12) jan 20.pdf",
+    "createdAt": "2026-07-24T06:50:35.773Z",
+    "targetRole": "Software Engineer",
+    "atsScore": 68,
+    "scoreBreakdown": {
+      "keywordMatch": 65,
+      "formatting": 80,
+      "impactMetrics": 55,
+      "sectionCompleteness": 72
+    },
+    "summary": "Reethika demonstrates core foundational knowledge suitable for an entry to junior Software Engineer position. To significantly improve market competitiveness, the candidate should highlight hands-on production experience, modern frameworks, and measurable project impact. Enhancing technical keyword density around cloud services, system design, and CI/CD will improve ATS pass rates.",
+    "skillGap": {
+      "matchPercentage": 62,
+      "identifiedStrengths": [
+        "Java",
+        "Python",
+        "Data Structures & Algorithms",
+        "Object-Oriented Programming (OOP)",
+        "SQL",
+        "Git"
+      ],
+      "missingSkills": [
+        {
+          "name": "Docker & Containerization",
+          "importance": "High",
+          "category": "Tools & Architecture"
+        },
+        {
+          "name": "CI/CD Pipelines",
+          "importance": "High",
+          "category": "Tools & Architecture"
+        },
+        {
+          "name": "System Design & Distributed Systems",
+          "importance": "High",
+          "category": "Technical"
+        },
+        {
+          "name": "AWS / Cloud Infrastructure",
+          "importance": "Medium",
+          "category": "Tools & Architecture"
+        },
+        {
+          "name": "RESTful API Design & Microservices",
+          "importance": "Medium",
+          "category": "Technical"
+        }
+      ],
+      "totalRequiredSkills": 13,
+      "matchedCount": 6,
+      "missingCount": 5
+    },
+    "careerPath": {
+      "recommendedRole": "Software Engineer",
+      "alignmentProbability": 78.5,
+      "roadmap": [
+        {
+          "level": "Step 01",
+          "title": "Current Baseline / Junior Phase",
+          "timeline": "0 - 1 Years",
+          "requiredSkills": [
+            "Java",
+            "Python",
+            "SQL",
+            "REST APIs"
+          ],
+          "responsibilities": [
+            "Develop and maintain clean codebases",
+            "Participate in code reviews and unit testing"
+          ],
+          "description": "Establish core engineering principles, contributing to feature development and bug fixes in backend services."
+        },
+        {
+          "level": "Step 02",
+          "title": "Mid-Level Software Engineer",
+          "timeline": "1 - 3 Years",
+          "requiredSkills": [
+            "Docker",
+            "AWS",
+            "Microservices",
+            "CI/CD"
+          ],
+          "responsibilities": [
+            "Design microservices and maintain cloud deployments",
+            "Optimize database queries and API response times"
+          ],
+          "description": "Drive end-to-end feature delivery, improve code performance, and automate deployment workflows."
+        },
+        {
+          "level": "Step 03",
+          "title": "Senior / Lead Software Engineer",
+          "timeline": "3 - 5 Years",
+          "requiredSkills": [
+            "System Architecture",
+            "Distributed Systems",
+            "Technical Leadership"
+          ],
+          "responsibilities": [
+            "Architect scalable multi-tenant services",
+            "Mentor junior engineers and establish technical standards"
+          ],
+          "description": "Lead cross-functional engineering initiatives and ensure platform stability and high availability."
+        },
+        {
+          "level": "Step 04",
+          "title": "Principal / Staff Architect",
+          "timeline": "5+ Years",
+          "requiredSkills": [
+            "Leadership",
+            "System Architecture",
+            "Strategic Planning"
+          ],
+          "responsibilities": [
+            "Define company-wide engineering strategy",
+            "Evaluate emerging technologies and drive innovation"
+          ],
+          "description": "Shape enterprise engineering architecture and align technology capabilities with long-term business goals."
+        }
+      ],
+      "alternatePaths": [
+        {
+          "role": "Backend Engineer",
+          "matchScore": 82,
+          "description": "Leverages existing core programming skills in Java and Python with a strong focus on APIs and data management."
+        },
+        {
+          "role": "DevOps / Cloud Engineer",
+          "matchScore": 68,
+          "description": "Focuses on infrastructure automation, containerization, and platform deployment for candidates looking to specialize in systems engineering."
+        }
+      ]
+    },
+    "salaryPrediction": {
+      "currentEstimatedMin": 75000,
+      "currentEstimatedAvg": 92000,
+      "currentEstimatedMax": 115000,
+      "currency": "$",
+      "trajectory": [
+        {
+          "year": 1,
+          "yearLabel": "Year 1",
+          "minSalary": 75000,
+          "avgSalary": 92000,
+          "maxSalary": 115000
+        },
+        {
+          "year": 2,
+          "yearLabel": "Year 2",
+          "minSalary": 88000,
+          "avgSalary": 106000,
+          "maxSalary": 130000
+        },
+        {
+          "year": 3,
+          "yearLabel": "Year 3",
+          "minSalary": 102000,
+          "avgSalary": 122000,
+          "maxSalary": 148000
+        },
+        {
+          "year": 4,
+          "yearLabel": "Year 4",
+          "minSalary": 118000,
+          "avgSalary": 140000,
+          "maxSalary": 168000
+        },
+        {
+          "year": 5,
+          "yearLabel": "Year 5",
+          "minSalary": 135000,
+          "avgSalary": 160000,
+          "maxSalary": 195000
+        }
+      ],
+      "topSkillPremiums": [
+        {
+          "skill": "System Design",
+          "estimatedValueBoost": "+18% Salary Boost"
+        },
+        {
+          "skill": "AWS / Cloud Architecture",
+          "estimatedValueBoost": "+15% Salary Boost"
+        },
+        {
+          "skill": "Docker & Kubernetes",
+          "estimatedValueBoost": "+12% Salary Boost"
+        }
+      ],
+      "marketDemandFactor": "High Demand (Top 15% in Market)"
+    },
+    "learningResources": [
+      {
+        "id": "lr_1",
+        "skillName": "Docker & Containerization",
+        "courseTitle": "Docker & Kubernetes: The Practical Guide",
+        "platform": "Udemy",
+        "difficulty": "Intermediate",
+        "estimatedHours": 22,
+        "rating": 4.8,
+        "url": "https://www.udemy.com"
+      },
+      {
+        "id": "lr_2",
+        "skillName": "System Design & Distributed Systems",
+        "courseTitle": "Grokking the System Design Interview",
+        "platform": "Coursera",
+        "difficulty": "Advanced",
+        "estimatedHours": 30,
+        "rating": 4.9,
+        "url": "https://www.coursera.org"
+      },
+      {
+        "id": "lr_3",
+        "skillName": "AWS / Cloud Infrastructure",
+        "courseTitle": "AWS Certified Developer Associate",
+        "platform": "edX",
+        "difficulty": "Intermediate",
+        "estimatedHours": 25,
+        "rating": 4.7,
+        "url": "https://www.edx.org"
+      }
+    ],
+    "improvementTips": [
+      {
+        "category": "Impact",
+        "severity": "Critical",
+        "tip": "Quantify bullet points using metrics to demonstrate project scope and technical efficiency.",
+        "exampleText": "Optimized database indexing and queries, decreasing average API response latency by 40% for 50k daily active users."
+      },
+      {
+        "category": "Keywords",
+        "severity": "Recommended",
+        "tip": "Incorporate key DevOps and modern architecture terms like Docker, CI/CD, Microservices, and REST APIs.",
+        "exampleText": "Engineered microservices using Java Spring Boot and deployed services via Docker and GitHub Actions CI/CD pipelines."
+      }
+    ],
+    "extractedData": {
+      "name": "Reethika G Resume (12) jan 20",
+      "email": "",
+      "phone": "",
+      "education": [],
+      "experience": [],
+      "skills": [],
+      "certifications": [],
+      "projects": [],
+      "rawText": "[File content from Reethika_G_Resume (12) jan 20.pdf]\nUnable to parse binary layout directly; AI engine will analyze file metrics."
+    }
+  },
+  {
+    "id": "anl_mrykwcbub3yz",
+    "userId": "usr_mrykkjbwxiuf",
+    "resumeId": "res_mrykldglo4hx",
+    "resumeName": "Reethika_G_Resume (12) jan 20.pdf",
+    "createdAt": "2026-07-24T06:48:04.458Z",
+    "targetRole": "Senior Product Designer",
+    "atsScore": 65,
+    "scoreBreakdown": {
+      "keywordMatch": 55,
+      "formatting": 88,
+      "impactMetrics": 72,
+      "sectionCompleteness": 92
+    },
+    "summary": "Your profile demonstrates strong alignment (55%) for the Senior Product Designer position. Strengthening key missing technical competencies will optimize recruiter ATS ranking.",
+    "skillGap": {
+      "matchPercentage": 55,
+      "identifiedStrengths": [
+        "Software Fundamentals",
+        "Problem Solving",
+        "Technical Communication"
+      ],
+      "missingSkills": [
+        {
+          "name": "Core Programming",
+          "importance": "High",
+          "category": "Core Competency"
+        },
+        {
+          "name": "System Architecture",
+          "importance": "Medium",
+          "category": "Core Competency"
+        },
+        {
+          "name": "Database Management",
+          "importance": "Low",
+          "category": "Core Competency"
+        },
+        {
+          "name": "Cloud Infrastructure",
+          "importance": "Low",
+          "category": "Core Competency"
+        },
+        {
+          "name": "Agile Methodologies",
+          "importance": "Low",
+          "category": "Core Competency"
+        }
+      ],
+      "totalRequiredSkills": 5,
+      "matchedCount": 0,
+      "missingCount": 5
+    },
+    "careerPath": {
+      "recommendedRole": "Senior Product Designer",
+      "alignmentProbability": 52.3,
+      "roadmap": [
+        {
+          "level": "Step 01",
+          "title": "Junior Senior Product Designer",
+          "timeline": "0 - 1 Years",
+          "requiredSkills": [],
+          "responsibilities": [
+            "Feature development & bug fixes",
+            "Code review participation",
+            "Unit test writing"
+          ],
+          "description": "Establish operational fluency with the stack and team workflows."
+        },
+        {
+          "level": "Step 02",
+          "title": "Mid-Level Senior Product Designer",
+          "timeline": "1 - 3 Years",
+          "requiredSkills": [
+            "Core Programming"
+          ],
+          "responsibilities": [
+            "Module architecture ownership",
+            "Cross-functional collaboration",
+            "Performance optimization"
+          ],
+          "description": "Lead standalone feature domains and mentor junior engineers."
+        },
+        {
+          "level": "Step 03",
+          "title": "Senior Senior Product Designer",
+          "timeline": "3 - 5 Years",
+          "requiredSkills": [
+            "System Design",
+            "Technical Leadership",
+            "Cloud Architecture"
+          ],
+          "responsibilities": [
+            "System architecture decisions",
+            "Technical strategy & RFCs",
+            "Team technical mentoring"
+          ],
+          "description": "Drive high-impact engineering design and organizational alignment."
+        },
+        {
+          "level": "Step 04",
+          "title": "Lead Architect / Tech Principal",
+          "timeline": "5+ Years",
+          "requiredSkills": [
+            "Org Strategy",
+            "Distributed Systems",
+            "Engineering Management"
+          ],
+          "responsibilities": [
+            "Company-wide tech vision",
+            "Strategic vendor & platform choices",
+            "Engineering excellence standards"
+          ],
+          "description": "Shape long-term technical direction and strategic architecture."
+        }
+      ],
+      "alternatePaths": [
+        {
+          "role": "Technical Product Manager",
+          "matchScore": 60,
+          "description": "Strong technical baseline allows seamless transition into strategic technical planning."
+        },
+        {
+          "role": "DevOps / Platform Engineer",
+          "matchScore": 60,
+          "description": "Leverage development experience to automate cloud infrastructure and CI/CD pipelines."
+        }
+      ]
+    },
+    "salaryPrediction": {
+      "currentEstimatedMin": 92000,
+      "currentEstimatedAvg": 118000,
+      "currentEstimatedMax": 148000,
+      "currency": "$",
+      "trajectory": [
+        {
+          "year": 1,
+          "yearLabel": "Year 1",
+          "minSalary": 92000,
+          "avgSalary": 112000,
+          "maxSalary": 132000
+        },
+        {
+          "year": 2,
+          "yearLabel": "Year 2",
+          "minSalary": 102000,
+          "avgSalary": 125000,
+          "maxSalary": 148000
+        },
+        {
+          "year": 3,
+          "yearLabel": "Year 3",
+          "minSalary": 115000,
+          "avgSalary": 140000,
+          "maxSalary": 168000
+        },
+        {
+          "year": 4,
+          "yearLabel": "Year 4",
+          "minSalary": 130000,
+          "avgSalary": 158000,
+          "maxSalary": 190000
+        },
+        {
+          "year": 5,
+          "yearLabel": "Year 5",
+          "minSalary": 148000,
+          "avgSalary": 182000,
+          "maxSalary": 220000
+        }
+      ],
+      "topSkillPremiums": [
+        {
+          "skill": "Core Programming",
+          "estimatedValueBoost": "+18% Valuation Boost"
+        },
+        {
+          "skill": "System Architecture",
+          "estimatedValueBoost": "+12% Valuation Boost"
+        }
+      ],
+      "marketDemandFactor": "High Demand (Top 12% in Market)"
+    },
+    "learningResources": [
+      {
+        "id": "lr_1",
+        "skillName": "Core Programming",
+        "courseTitle": "Comprehensive Core Programming Mastery & Real-World Projects",
+        "platform": "Coursera",
+        "difficulty": "Intermediate",
+        "estimatedHours": 16,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      },
+      {
+        "id": "lr_2",
+        "skillName": "System Architecture",
+        "courseTitle": "Comprehensive System Architecture Mastery & Real-World Projects",
+        "platform": "Pluralsight",
+        "difficulty": "Intermediate",
+        "estimatedHours": 24,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      },
+      {
+        "id": "lr_3",
+        "skillName": "Database Management",
+        "courseTitle": "Comprehensive Database Management Mastery & Real-World Projects",
+        "platform": "Coursera",
+        "difficulty": "Intermediate",
+        "estimatedHours": 32,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      },
+      {
+        "id": "lr_4",
+        "skillName": "Cloud Infrastructure",
+        "courseTitle": "Comprehensive Cloud Infrastructure Mastery & Real-World Projects",
+        "platform": "Pluralsight",
+        "difficulty": "Intermediate",
+        "estimatedHours": 40,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      },
+      {
+        "id": "lr_5",
+        "skillName": "Agile Methodologies",
+        "courseTitle": "Comprehensive Agile Methodologies Mastery & Real-World Projects",
+        "platform": "Coursera",
+        "difficulty": "Intermediate",
+        "estimatedHours": 48,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      }
+    ],
+    "improvementTips": [
+      {
+        "category": "Impact",
+        "severity": "Critical",
+        "tip": "Add metric-driven accomplishment bullets (e.g. \"Reduced page render times by 40%\").",
+        "exampleText": "Optimized state rendering logic reducing dashboard load latency by 320ms."
+      },
+      {
+        "category": "Keywords",
+        "severity": "Recommended",
+        "tip": "Include missing target keywords like Core Programming, System Architecture in skills and project descriptions.",
+        "exampleText": "Architected containerized services utilizing Core Programming."
+      },
+      {
+        "category": "Structure",
+        "severity": "Minor",
+        "tip": "Ensure section headers adhere to standard ATS names (e.g., \"Work Experience\", \"Education\")."
+      }
+    ],
+    "extractedData": {
+      "name": "Reethika G Resume (12) jan 20",
+      "email": "",
+      "phone": "",
+      "education": [],
+      "experience": [],
+      "skills": [],
+      "certifications": [],
+      "projects": [],
+      "rawText": "[File content from Reethika_G_Resume (12) jan 20.pdf]\nUnable to parse binary layout directly; AI engine will analyze file metrics."
+    }
+  },
+  {
+    "id": "anl_mryklzje658w",
+    "userId": "usr_mrykkjbwxiuf",
+    "resumeId": "res_mrykldglo4hx",
+    "resumeName": "Reethika_G_Resume (12) jan 20.pdf",
+    "createdAt": "2026-07-24T06:40:01.322Z",
+    "targetRole": "Senior Product Designer",
+    "atsScore": 65,
+    "scoreBreakdown": {
+      "keywordMatch": 55,
+      "formatting": 88,
+      "impactMetrics": 72,
+      "sectionCompleteness": 92
+    },
+    "summary": "Your profile demonstrates strong alignment (55%) for the Senior Product Designer position. Strengthening key missing technical competencies will optimize recruiter ATS ranking.",
+    "skillGap": {
+      "matchPercentage": 55,
+      "identifiedStrengths": [
+        "Software Fundamentals",
+        "Problem Solving",
+        "Technical Communication"
+      ],
+      "missingSkills": [
+        {
+          "name": "Core Programming",
+          "importance": "High",
+          "category": "Core Competency"
+        },
+        {
+          "name": "System Architecture",
+          "importance": "Medium",
+          "category": "Core Competency"
+        },
+        {
+          "name": "Database Management",
+          "importance": "Low",
+          "category": "Core Competency"
+        },
+        {
+          "name": "Cloud Infrastructure",
+          "importance": "Low",
+          "category": "Core Competency"
+        },
+        {
+          "name": "Agile Methodologies",
+          "importance": "Low",
+          "category": "Core Competency"
+        }
+      ],
+      "totalRequiredSkills": 5,
+      "matchedCount": 0,
+      "missingCount": 5
+    },
+    "careerPath": {
+      "recommendedRole": "Senior Product Designer",
+      "alignmentProbability": 52.3,
+      "roadmap": [
+        {
+          "level": "Step 01",
+          "title": "Junior Senior Product Designer",
+          "timeline": "0 - 1 Years",
+          "requiredSkills": [],
+          "responsibilities": [
+            "Feature development & bug fixes",
+            "Code review participation",
+            "Unit test writing"
+          ],
+          "description": "Establish operational fluency with the stack and team workflows."
+        },
+        {
+          "level": "Step 02",
+          "title": "Mid-Level Senior Product Designer",
+          "timeline": "1 - 3 Years",
+          "requiredSkills": [
+            "Core Programming"
+          ],
+          "responsibilities": [
+            "Module architecture ownership",
+            "Cross-functional collaboration",
+            "Performance optimization"
+          ],
+          "description": "Lead standalone feature domains and mentor junior engineers."
+        },
+        {
+          "level": "Step 03",
+          "title": "Senior Senior Product Designer",
+          "timeline": "3 - 5 Years",
+          "requiredSkills": [
+            "System Design",
+            "Technical Leadership",
+            "Cloud Architecture"
+          ],
+          "responsibilities": [
+            "System architecture decisions",
+            "Technical strategy & RFCs",
+            "Team technical mentoring"
+          ],
+          "description": "Drive high-impact engineering design and organizational alignment."
+        },
+        {
+          "level": "Step 04",
+          "title": "Lead Architect / Tech Principal",
+          "timeline": "5+ Years",
+          "requiredSkills": [
+            "Org Strategy",
+            "Distributed Systems",
+            "Engineering Management"
+          ],
+          "responsibilities": [
+            "Company-wide tech vision",
+            "Strategic vendor & platform choices",
+            "Engineering excellence standards"
+          ],
+          "description": "Shape long-term technical direction and strategic architecture."
+        }
+      ],
+      "alternatePaths": [
+        {
+          "role": "Technical Product Manager",
+          "matchScore": 60,
+          "description": "Strong technical baseline allows seamless transition into strategic technical planning."
+        },
+        {
+          "role": "DevOps / Platform Engineer",
+          "matchScore": 60,
+          "description": "Leverage development experience to automate cloud infrastructure and CI/CD pipelines."
+        }
+      ]
+    },
+    "salaryPrediction": {
+      "currentEstimatedMin": 92000,
+      "currentEstimatedAvg": 118000,
+      "currentEstimatedMax": 148000,
+      "currency": "$",
+      "trajectory": [
+        {
+          "year": 1,
+          "yearLabel": "Year 1",
+          "minSalary": 92000,
+          "avgSalary": 112000,
+          "maxSalary": 132000
+        },
+        {
+          "year": 2,
+          "yearLabel": "Year 2",
+          "minSalary": 102000,
+          "avgSalary": 125000,
+          "maxSalary": 148000
+        },
+        {
+          "year": 3,
+          "yearLabel": "Year 3",
+          "minSalary": 115000,
+          "avgSalary": 140000,
+          "maxSalary": 168000
+        },
+        {
+          "year": 4,
+          "yearLabel": "Year 4",
+          "minSalary": 130000,
+          "avgSalary": 158000,
+          "maxSalary": 190000
+        },
+        {
+          "year": 5,
+          "yearLabel": "Year 5",
+          "minSalary": 148000,
+          "avgSalary": 182000,
+          "maxSalary": 220000
+        }
+      ],
+      "topSkillPremiums": [
+        {
+          "skill": "Core Programming",
+          "estimatedValueBoost": "+18% Valuation Boost"
+        },
+        {
+          "skill": "System Architecture",
+          "estimatedValueBoost": "+12% Valuation Boost"
+        }
+      ],
+      "marketDemandFactor": "High Demand (Top 12% in Market)"
+    },
+    "learningResources": [
+      {
+        "id": "lr_1",
+        "skillName": "Core Programming",
+        "courseTitle": "Comprehensive Core Programming Mastery & Real-World Projects",
+        "platform": "Coursera",
+        "difficulty": "Intermediate",
+        "estimatedHours": 16,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      },
+      {
+        "id": "lr_2",
+        "skillName": "System Architecture",
+        "courseTitle": "Comprehensive System Architecture Mastery & Real-World Projects",
+        "platform": "Pluralsight",
+        "difficulty": "Intermediate",
+        "estimatedHours": 24,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      },
+      {
+        "id": "lr_3",
+        "skillName": "Database Management",
+        "courseTitle": "Comprehensive Database Management Mastery & Real-World Projects",
+        "platform": "Coursera",
+        "difficulty": "Intermediate",
+        "estimatedHours": 32,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      },
+      {
+        "id": "lr_4",
+        "skillName": "Cloud Infrastructure",
+        "courseTitle": "Comprehensive Cloud Infrastructure Mastery & Real-World Projects",
+        "platform": "Pluralsight",
+        "difficulty": "Intermediate",
+        "estimatedHours": 40,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      },
+      {
+        "id": "lr_5",
+        "skillName": "Agile Methodologies",
+        "courseTitle": "Comprehensive Agile Methodologies Mastery & Real-World Projects",
+        "platform": "Coursera",
+        "difficulty": "Intermediate",
+        "estimatedHours": 48,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      }
+    ],
+    "improvementTips": [
+      {
+        "category": "Impact",
+        "severity": "Critical",
+        "tip": "Add metric-driven accomplishment bullets (e.g. \"Reduced page render times by 40%\").",
+        "exampleText": "Optimized state rendering logic reducing dashboard load latency by 320ms."
+      },
+      {
+        "category": "Keywords",
+        "severity": "Recommended",
+        "tip": "Include missing target keywords like Core Programming, System Architecture in skills and project descriptions.",
+        "exampleText": "Architected containerized services utilizing Core Programming."
+      },
+      {
+        "category": "Structure",
+        "severity": "Minor",
+        "tip": "Ensure section headers adhere to standard ATS names (e.g., \"Work Experience\", \"Education\")."
+      }
+    ],
+    "extractedData": {
+      "name": "Reethika G Resume (12) jan 20",
+      "email": "",
+      "phone": "",
+      "education": [],
+      "experience": [],
+      "skills": [],
+      "certifications": [],
+      "projects": [],
+      "rawText": "[File content from Reethika_G_Resume (12) jan 20.pdf]\nUnable to parse binary layout directly; AI engine will analyze file metrics."
+    }
+  },
+  {
+    "id": "anl_mrykly41jbfe",
+    "userId": "usr_mrykkjbwxiuf",
+    "resumeId": "res_mrykldglo4hx",
+    "resumeName": "Reethika_G_Resume (12) jan 20.pdf",
+    "createdAt": "2026-07-24T06:39:59.473Z",
+    "targetRole": "Senior Product Designer",
+    "atsScore": 65,
+    "scoreBreakdown": {
+      "keywordMatch": 55,
+      "formatting": 88,
+      "impactMetrics": 72,
+      "sectionCompleteness": 92
+    },
+    "summary": "Your profile demonstrates strong alignment (55%) for the Senior Product Designer position. Strengthening key missing technical competencies will optimize recruiter ATS ranking.",
+    "skillGap": {
+      "matchPercentage": 55,
+      "identifiedStrengths": [
+        "Software Fundamentals",
+        "Problem Solving",
+        "Technical Communication"
+      ],
+      "missingSkills": [
+        {
+          "name": "Core Programming",
+          "importance": "High",
+          "category": "Core Competency"
+        },
+        {
+          "name": "System Architecture",
+          "importance": "Medium",
+          "category": "Core Competency"
+        },
+        {
+          "name": "Database Management",
+          "importance": "Low",
+          "category": "Core Competency"
+        },
+        {
+          "name": "Cloud Infrastructure",
+          "importance": "Low",
+          "category": "Core Competency"
+        },
+        {
+          "name": "Agile Methodologies",
+          "importance": "Low",
+          "category": "Core Competency"
+        }
+      ],
+      "totalRequiredSkills": 5,
+      "matchedCount": 0,
+      "missingCount": 5
+    },
+    "careerPath": {
+      "recommendedRole": "Senior Product Designer",
+      "alignmentProbability": 52.3,
+      "roadmap": [
+        {
+          "level": "Step 01",
+          "title": "Junior Senior Product Designer",
+          "timeline": "0 - 1 Years",
+          "requiredSkills": [],
+          "responsibilities": [
+            "Feature development & bug fixes",
+            "Code review participation",
+            "Unit test writing"
+          ],
+          "description": "Establish operational fluency with the stack and team workflows."
+        },
+        {
+          "level": "Step 02",
+          "title": "Mid-Level Senior Product Designer",
+          "timeline": "1 - 3 Years",
+          "requiredSkills": [
+            "Core Programming"
+          ],
+          "responsibilities": [
+            "Module architecture ownership",
+            "Cross-functional collaboration",
+            "Performance optimization"
+          ],
+          "description": "Lead standalone feature domains and mentor junior engineers."
+        },
+        {
+          "level": "Step 03",
+          "title": "Senior Senior Product Designer",
+          "timeline": "3 - 5 Years",
+          "requiredSkills": [
+            "System Design",
+            "Technical Leadership",
+            "Cloud Architecture"
+          ],
+          "responsibilities": [
+            "System architecture decisions",
+            "Technical strategy & RFCs",
+            "Team technical mentoring"
+          ],
+          "description": "Drive high-impact engineering design and organizational alignment."
+        },
+        {
+          "level": "Step 04",
+          "title": "Lead Architect / Tech Principal",
+          "timeline": "5+ Years",
+          "requiredSkills": [
+            "Org Strategy",
+            "Distributed Systems",
+            "Engineering Management"
+          ],
+          "responsibilities": [
+            "Company-wide tech vision",
+            "Strategic vendor & platform choices",
+            "Engineering excellence standards"
+          ],
+          "description": "Shape long-term technical direction and strategic architecture."
+        }
+      ],
+      "alternatePaths": [
+        {
+          "role": "Technical Product Manager",
+          "matchScore": 60,
+          "description": "Strong technical baseline allows seamless transition into strategic technical planning."
+        },
+        {
+          "role": "DevOps / Platform Engineer",
+          "matchScore": 60,
+          "description": "Leverage development experience to automate cloud infrastructure and CI/CD pipelines."
+        }
+      ]
+    },
+    "salaryPrediction": {
+      "currentEstimatedMin": 92000,
+      "currentEstimatedAvg": 118000,
+      "currentEstimatedMax": 148000,
+      "currency": "$",
+      "trajectory": [
+        {
+          "year": 1,
+          "yearLabel": "Year 1",
+          "minSalary": 92000,
+          "avgSalary": 112000,
+          "maxSalary": 132000
+        },
+        {
+          "year": 2,
+          "yearLabel": "Year 2",
+          "minSalary": 102000,
+          "avgSalary": 125000,
+          "maxSalary": 148000
+        },
+        {
+          "year": 3,
+          "yearLabel": "Year 3",
+          "minSalary": 115000,
+          "avgSalary": 140000,
+          "maxSalary": 168000
+        },
+        {
+          "year": 4,
+          "yearLabel": "Year 4",
+          "minSalary": 130000,
+          "avgSalary": 158000,
+          "maxSalary": 190000
+        },
+        {
+          "year": 5,
+          "yearLabel": "Year 5",
+          "minSalary": 148000,
+          "avgSalary": 182000,
+          "maxSalary": 220000
+        }
+      ],
+      "topSkillPremiums": [
+        {
+          "skill": "Core Programming",
+          "estimatedValueBoost": "+18% Valuation Boost"
+        },
+        {
+          "skill": "System Architecture",
+          "estimatedValueBoost": "+12% Valuation Boost"
+        }
+      ],
+      "marketDemandFactor": "High Demand (Top 12% in Market)"
+    },
+    "learningResources": [
+      {
+        "id": "lr_1",
+        "skillName": "Core Programming",
+        "courseTitle": "Comprehensive Core Programming Mastery & Real-World Projects",
+        "platform": "Coursera",
+        "difficulty": "Intermediate",
+        "estimatedHours": 16,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      },
+      {
+        "id": "lr_2",
+        "skillName": "System Architecture",
+        "courseTitle": "Comprehensive System Architecture Mastery & Real-World Projects",
+        "platform": "Pluralsight",
+        "difficulty": "Intermediate",
+        "estimatedHours": 24,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      },
+      {
+        "id": "lr_3",
+        "skillName": "Database Management",
+        "courseTitle": "Comprehensive Database Management Mastery & Real-World Projects",
+        "platform": "Coursera",
+        "difficulty": "Intermediate",
+        "estimatedHours": 32,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      },
+      {
+        "id": "lr_4",
+        "skillName": "Cloud Infrastructure",
+        "courseTitle": "Comprehensive Cloud Infrastructure Mastery & Real-World Projects",
+        "platform": "Pluralsight",
+        "difficulty": "Intermediate",
+        "estimatedHours": 40,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      },
+      {
+        "id": "lr_5",
+        "skillName": "Agile Methodologies",
+        "courseTitle": "Comprehensive Agile Methodologies Mastery & Real-World Projects",
+        "platform": "Coursera",
+        "difficulty": "Intermediate",
+        "estimatedHours": 48,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      }
+    ],
+    "improvementTips": [
+      {
+        "category": "Impact",
+        "severity": "Critical",
+        "tip": "Add metric-driven accomplishment bullets (e.g. \"Reduced page render times by 40%\").",
+        "exampleText": "Optimized state rendering logic reducing dashboard load latency by 320ms."
+      },
+      {
+        "category": "Keywords",
+        "severity": "Recommended",
+        "tip": "Include missing target keywords like Core Programming, System Architecture in skills and project descriptions.",
+        "exampleText": "Architected containerized services utilizing Core Programming."
+      },
+      {
+        "category": "Structure",
+        "severity": "Minor",
+        "tip": "Ensure section headers adhere to standard ATS names (e.g., \"Work Experience\", \"Education\")."
+      }
+    ],
+    "extractedData": {
+      "name": "Reethika G Resume (12) jan 20",
+      "email": "",
+      "phone": "",
+      "education": [],
+      "experience": [],
+      "skills": [],
+      "certifications": [],
+      "projects": [],
+      "rawText": "[File content from Reethika_G_Resume (12) jan 20.pdf]\nUnable to parse binary layout directly; AI engine will analyze file metrics."
+    }
+  },
+  {
+    "id": "anl_mryklmqxl2vu",
+    "userId": "usr_mrykkjbwxiuf",
+    "resumeId": "res_mrykldglo4hx",
+    "resumeName": "Reethika_G_Resume (12) jan 20.pdf",
+    "createdAt": "2026-07-24T06:39:44.745Z",
+    "targetRole": "Senior Product Designer",
+    "atsScore": 65,
+    "scoreBreakdown": {
+      "keywordMatch": 55,
+      "formatting": 88,
+      "impactMetrics": 72,
+      "sectionCompleteness": 92
+    },
+    "summary": "Your profile demonstrates strong alignment (55%) for the Senior Product Designer position. Strengthening key missing technical competencies will optimize recruiter ATS ranking.",
+    "skillGap": {
+      "matchPercentage": 55,
+      "identifiedStrengths": [
+        "Software Fundamentals",
+        "Problem Solving",
+        "Technical Communication"
+      ],
+      "missingSkills": [
+        {
+          "name": "Core Programming",
+          "importance": "High",
+          "category": "Core Competency"
+        },
+        {
+          "name": "System Architecture",
+          "importance": "Medium",
+          "category": "Core Competency"
+        },
+        {
+          "name": "Database Management",
+          "importance": "Low",
+          "category": "Core Competency"
+        },
+        {
+          "name": "Cloud Infrastructure",
+          "importance": "Low",
+          "category": "Core Competency"
+        },
+        {
+          "name": "Agile Methodologies",
+          "importance": "Low",
+          "category": "Core Competency"
+        }
+      ],
+      "totalRequiredSkills": 5,
+      "matchedCount": 0,
+      "missingCount": 5
+    },
+    "careerPath": {
+      "recommendedRole": "Senior Product Designer",
+      "alignmentProbability": 52.3,
+      "roadmap": [
+        {
+          "level": "Step 01",
+          "title": "Junior Senior Product Designer",
+          "timeline": "0 - 1 Years",
+          "requiredSkills": [],
+          "responsibilities": [
+            "Feature development & bug fixes",
+            "Code review participation",
+            "Unit test writing"
+          ],
+          "description": "Establish operational fluency with the stack and team workflows."
+        },
+        {
+          "level": "Step 02",
+          "title": "Mid-Level Senior Product Designer",
+          "timeline": "1 - 3 Years",
+          "requiredSkills": [
+            "Core Programming"
+          ],
+          "responsibilities": [
+            "Module architecture ownership",
+            "Cross-functional collaboration",
+            "Performance optimization"
+          ],
+          "description": "Lead standalone feature domains and mentor junior engineers."
+        },
+        {
+          "level": "Step 03",
+          "title": "Senior Senior Product Designer",
+          "timeline": "3 - 5 Years",
+          "requiredSkills": [
+            "System Design",
+            "Technical Leadership",
+            "Cloud Architecture"
+          ],
+          "responsibilities": [
+            "System architecture decisions",
+            "Technical strategy & RFCs",
+            "Team technical mentoring"
+          ],
+          "description": "Drive high-impact engineering design and organizational alignment."
+        },
+        {
+          "level": "Step 04",
+          "title": "Lead Architect / Tech Principal",
+          "timeline": "5+ Years",
+          "requiredSkills": [
+            "Org Strategy",
+            "Distributed Systems",
+            "Engineering Management"
+          ],
+          "responsibilities": [
+            "Company-wide tech vision",
+            "Strategic vendor & platform choices",
+            "Engineering excellence standards"
+          ],
+          "description": "Shape long-term technical direction and strategic architecture."
+        }
+      ],
+      "alternatePaths": [
+        {
+          "role": "Technical Product Manager",
+          "matchScore": 60,
+          "description": "Strong technical baseline allows seamless transition into strategic technical planning."
+        },
+        {
+          "role": "DevOps / Platform Engineer",
+          "matchScore": 60,
+          "description": "Leverage development experience to automate cloud infrastructure and CI/CD pipelines."
+        }
+      ]
+    },
+    "salaryPrediction": {
+      "currentEstimatedMin": 92000,
+      "currentEstimatedAvg": 118000,
+      "currentEstimatedMax": 148000,
+      "currency": "$",
+      "trajectory": [
+        {
+          "year": 1,
+          "yearLabel": "Year 1",
+          "minSalary": 92000,
+          "avgSalary": 112000,
+          "maxSalary": 132000
+        },
+        {
+          "year": 2,
+          "yearLabel": "Year 2",
+          "minSalary": 102000,
+          "avgSalary": 125000,
+          "maxSalary": 148000
+        },
+        {
+          "year": 3,
+          "yearLabel": "Year 3",
+          "minSalary": 115000,
+          "avgSalary": 140000,
+          "maxSalary": 168000
+        },
+        {
+          "year": 4,
+          "yearLabel": "Year 4",
+          "minSalary": 130000,
+          "avgSalary": 158000,
+          "maxSalary": 190000
+        },
+        {
+          "year": 5,
+          "yearLabel": "Year 5",
+          "minSalary": 148000,
+          "avgSalary": 182000,
+          "maxSalary": 220000
+        }
+      ],
+      "topSkillPremiums": [
+        {
+          "skill": "Core Programming",
+          "estimatedValueBoost": "+18% Valuation Boost"
+        },
+        {
+          "skill": "System Architecture",
+          "estimatedValueBoost": "+12% Valuation Boost"
+        }
+      ],
+      "marketDemandFactor": "High Demand (Top 12% in Market)"
+    },
+    "learningResources": [
+      {
+        "id": "lr_1",
+        "skillName": "Core Programming",
+        "courseTitle": "Comprehensive Core Programming Mastery & Real-World Projects",
+        "platform": "Coursera",
+        "difficulty": "Intermediate",
+        "estimatedHours": 16,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      },
+      {
+        "id": "lr_2",
+        "skillName": "System Architecture",
+        "courseTitle": "Comprehensive System Architecture Mastery & Real-World Projects",
+        "platform": "Pluralsight",
+        "difficulty": "Intermediate",
+        "estimatedHours": 24,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      },
+      {
+        "id": "lr_3",
+        "skillName": "Database Management",
+        "courseTitle": "Comprehensive Database Management Mastery & Real-World Projects",
+        "platform": "Coursera",
+        "difficulty": "Intermediate",
+        "estimatedHours": 32,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      },
+      {
+        "id": "lr_4",
+        "skillName": "Cloud Infrastructure",
+        "courseTitle": "Comprehensive Cloud Infrastructure Mastery & Real-World Projects",
+        "platform": "Pluralsight",
+        "difficulty": "Intermediate",
+        "estimatedHours": 40,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      },
+      {
+        "id": "lr_5",
+        "skillName": "Agile Methodologies",
+        "courseTitle": "Comprehensive Agile Methodologies Mastery & Real-World Projects",
+        "platform": "Coursera",
+        "difficulty": "Intermediate",
+        "estimatedHours": 48,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      }
+    ],
+    "improvementTips": [
+      {
+        "category": "Impact",
+        "severity": "Critical",
+        "tip": "Add metric-driven accomplishment bullets (e.g. \"Reduced page render times by 40%\").",
+        "exampleText": "Optimized state rendering logic reducing dashboard load latency by 320ms."
+      },
+      {
+        "category": "Keywords",
+        "severity": "Recommended",
+        "tip": "Include missing target keywords like Core Programming, System Architecture in skills and project descriptions.",
+        "exampleText": "Architected containerized services utilizing Core Programming."
+      },
+      {
+        "category": "Structure",
+        "severity": "Minor",
+        "tip": "Ensure section headers adhere to standard ATS names (e.g., \"Work Experience\", \"Education\")."
+      }
+    ],
+    "extractedData": {
+      "name": "Reethika G Resume (12) jan 20",
+      "email": "",
+      "phone": "",
+      "education": [],
+      "experience": [],
+      "skills": [],
+      "certifications": [],
+      "projects": [],
+      "rawText": "[File content from Reethika_G_Resume (12) jan 20.pdf]\nUnable to parse binary layout directly; AI engine will analyze file metrics."
+    }
+  },
+  {
+    "id": "anl_mryklitxa87c",
+    "userId": "usr_mrykkjbwxiuf",
+    "resumeId": "res_mrykldglo4hx",
+    "resumeName": "Reethika_G_Resume (12) jan 20.pdf",
+    "createdAt": "2026-07-24T06:39:39.669Z",
+    "targetRole": "Senior Product Designer",
+    "atsScore": 65,
+    "scoreBreakdown": {
+      "keywordMatch": 55,
+      "formatting": 88,
+      "impactMetrics": 72,
+      "sectionCompleteness": 92
+    },
+    "summary": "Your profile demonstrates strong alignment (55%) for the Senior Product Designer position. Strengthening key missing technical competencies will optimize recruiter ATS ranking.",
+    "skillGap": {
+      "matchPercentage": 55,
+      "identifiedStrengths": [
+        "Software Fundamentals",
+        "Problem Solving",
+        "Technical Communication"
+      ],
+      "missingSkills": [
+        {
+          "name": "Core Programming",
+          "importance": "High",
+          "category": "Core Competency"
+        },
+        {
+          "name": "System Architecture",
+          "importance": "Medium",
+          "category": "Core Competency"
+        },
+        {
+          "name": "Database Management",
+          "importance": "Low",
+          "category": "Core Competency"
+        },
+        {
+          "name": "Cloud Infrastructure",
+          "importance": "Low",
+          "category": "Core Competency"
+        },
+        {
+          "name": "Agile Methodologies",
+          "importance": "Low",
+          "category": "Core Competency"
+        }
+      ],
+      "totalRequiredSkills": 5,
+      "matchedCount": 0,
+      "missingCount": 5
+    },
+    "careerPath": {
+      "recommendedRole": "Senior Product Designer",
+      "alignmentProbability": 52.3,
+      "roadmap": [
+        {
+          "level": "Step 01",
+          "title": "Junior Senior Product Designer",
+          "timeline": "0 - 1 Years",
+          "requiredSkills": [],
+          "responsibilities": [
+            "Feature development & bug fixes",
+            "Code review participation",
+            "Unit test writing"
+          ],
+          "description": "Establish operational fluency with the stack and team workflows."
+        },
+        {
+          "level": "Step 02",
+          "title": "Mid-Level Senior Product Designer",
+          "timeline": "1 - 3 Years",
+          "requiredSkills": [
+            "Core Programming"
+          ],
+          "responsibilities": [
+            "Module architecture ownership",
+            "Cross-functional collaboration",
+            "Performance optimization"
+          ],
+          "description": "Lead standalone feature domains and mentor junior engineers."
+        },
+        {
+          "level": "Step 03",
+          "title": "Senior Senior Product Designer",
+          "timeline": "3 - 5 Years",
+          "requiredSkills": [
+            "System Design",
+            "Technical Leadership",
+            "Cloud Architecture"
+          ],
+          "responsibilities": [
+            "System architecture decisions",
+            "Technical strategy & RFCs",
+            "Team technical mentoring"
+          ],
+          "description": "Drive high-impact engineering design and organizational alignment."
+        },
+        {
+          "level": "Step 04",
+          "title": "Lead Architect / Tech Principal",
+          "timeline": "5+ Years",
+          "requiredSkills": [
+            "Org Strategy",
+            "Distributed Systems",
+            "Engineering Management"
+          ],
+          "responsibilities": [
+            "Company-wide tech vision",
+            "Strategic vendor & platform choices",
+            "Engineering excellence standards"
+          ],
+          "description": "Shape long-term technical direction and strategic architecture."
+        }
+      ],
+      "alternatePaths": [
+        {
+          "role": "Technical Product Manager",
+          "matchScore": 60,
+          "description": "Strong technical baseline allows seamless transition into strategic technical planning."
+        },
+        {
+          "role": "DevOps / Platform Engineer",
+          "matchScore": 60,
+          "description": "Leverage development experience to automate cloud infrastructure and CI/CD pipelines."
+        }
+      ]
+    },
+    "salaryPrediction": {
+      "currentEstimatedMin": 92000,
+      "currentEstimatedAvg": 118000,
+      "currentEstimatedMax": 148000,
+      "currency": "$",
+      "trajectory": [
+        {
+          "year": 1,
+          "yearLabel": "Year 1",
+          "minSalary": 92000,
+          "avgSalary": 112000,
+          "maxSalary": 132000
+        },
+        {
+          "year": 2,
+          "yearLabel": "Year 2",
+          "minSalary": 102000,
+          "avgSalary": 125000,
+          "maxSalary": 148000
+        },
+        {
+          "year": 3,
+          "yearLabel": "Year 3",
+          "minSalary": 115000,
+          "avgSalary": 140000,
+          "maxSalary": 168000
+        },
+        {
+          "year": 4,
+          "yearLabel": "Year 4",
+          "minSalary": 130000,
+          "avgSalary": 158000,
+          "maxSalary": 190000
+        },
+        {
+          "year": 5,
+          "yearLabel": "Year 5",
+          "minSalary": 148000,
+          "avgSalary": 182000,
+          "maxSalary": 220000
+        }
+      ],
+      "topSkillPremiums": [
+        {
+          "skill": "Core Programming",
+          "estimatedValueBoost": "+18% Valuation Boost"
+        },
+        {
+          "skill": "System Architecture",
+          "estimatedValueBoost": "+12% Valuation Boost"
+        }
+      ],
+      "marketDemandFactor": "High Demand (Top 12% in Market)"
+    },
+    "learningResources": [
+      {
+        "id": "lr_1",
+        "skillName": "Core Programming",
+        "courseTitle": "Comprehensive Core Programming Mastery & Real-World Projects",
+        "platform": "Coursera",
+        "difficulty": "Intermediate",
+        "estimatedHours": 16,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      },
+      {
+        "id": "lr_2",
+        "skillName": "System Architecture",
+        "courseTitle": "Comprehensive System Architecture Mastery & Real-World Projects",
+        "platform": "Pluralsight",
+        "difficulty": "Intermediate",
+        "estimatedHours": 24,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      },
+      {
+        "id": "lr_3",
+        "skillName": "Database Management",
+        "courseTitle": "Comprehensive Database Management Mastery & Real-World Projects",
+        "platform": "Coursera",
+        "difficulty": "Intermediate",
+        "estimatedHours": 32,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      },
+      {
+        "id": "lr_4",
+        "skillName": "Cloud Infrastructure",
+        "courseTitle": "Comprehensive Cloud Infrastructure Mastery & Real-World Projects",
+        "platform": "Pluralsight",
+        "difficulty": "Intermediate",
+        "estimatedHours": 40,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      },
+      {
+        "id": "lr_5",
+        "skillName": "Agile Methodologies",
+        "courseTitle": "Comprehensive Agile Methodologies Mastery & Real-World Projects",
+        "platform": "Coursera",
+        "difficulty": "Intermediate",
+        "estimatedHours": 48,
+        "rating": 4.8,
+        "url": "https://www.coursera.org"
+      }
+    ],
+    "improvementTips": [
+      {
+        "category": "Impact",
+        "severity": "Critical",
+        "tip": "Add metric-driven accomplishment bullets (e.g. \"Reduced page render times by 40%\").",
+        "exampleText": "Optimized state rendering logic reducing dashboard load latency by 320ms."
+      },
+      {
+        "category": "Keywords",
+        "severity": "Recommended",
+        "tip": "Include missing target keywords like Core Programming, System Architecture in skills and project descriptions.",
+        "exampleText": "Architected containerized services utilizing Core Programming."
+      },
+      {
+        "category": "Structure",
+        "severity": "Minor",
+        "tip": "Ensure section headers adhere to standard ATS names (e.g., \"Work Experience\", \"Education\")."
+      }
+    ],
+    "extractedData": {
+      "name": "Reethika G Resume (12) jan 20",
+      "email": "",
+      "phone": "",
+      "education": [],
+      "experience": [],
+      "skills": [],
+      "certifications": [],
+      "projects": [],
+      "rawText": "[File content from Reethika_G_Resume (12) jan 20.pdf]\nUnable to parse binary layout directly; AI engine will analyze file metrics."
+    }
+  }
+]

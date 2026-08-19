@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #F7F4EB;
+    background-image: 
+      linear-gradient(#E3DDD0 1px, transparent 1px),
+      linear-gradient(90deg, #E3DDD0 1px, transparent 1px);
+    background-size: 32px 32px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    color: #0F172A;
+  }
+}
+
+.bg-blueprint {
+  background-color: #F7F4EB;
+  background-image: 
+    linear-gradient(#E3DDD0 1px, transparent 1px),
+    linear-gradient(90deg, #E3DDD0 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+.bg-blueprint-dark {
+  background-color: #16405B;
+  background-image: 
+    linear-gradient(#205274 1px, transparent 1px),
+    linear-gradient(90deg, #205274 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+.font-mono-metric {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+

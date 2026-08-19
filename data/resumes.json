@@ -1,0 +1,86 @@
+[
+  {
+    "id": "res_mrykldglo4hx",
+    "userId": "usr_mrykkjbwxiuf",
+    "filename": "resume-1784875858308-145526333.pdf",
+    "originalName": "Reethika_G_Resume.pdf",
+    "fileType": "pdf",
+    "size": 416338,
+    "uploadDate": "2026-07-24T06:51:22.210Z",
+    "isActive": true,
+    "extractedData": {
+      "name": "Reethika G",
+      "email": "reethikagopi5@gmail.com",
+      "phone": "6381375871",
+      "targetRole": "Electrical Engineer",
+      "summary": "Motivated Electrical and Electronics Engineering student with hands-on experience in IoT-based system design, embedded microcontrollers, and industrial operations. Demonstrates strong analytical and problem-solving skills with background in high-voltage substations and production planning.",
+      "experienceYears": 1,
+      "skills": [
+        "Digital Electronics",
+        "Control Systems",
+        "Electrical Machines",
+        "Power Systems",
+        "Electrical Drives",
+        "SQL (DBMS)",
+        "ESP32 & ESP8266",
+        "C / C++",
+        "Java",
+        "Internet of Things (IoT)",
+        "Data Structures & Algorithms"
+      ],
+      "education": [
+        {
+          "institution": "Sona College of Technology, Salem",
+          "degree": "B.E. Electrical and Electronics Engineering (CGPA: 8.645)",
+          "year": "2023 - 2027"
+        },
+        {
+          "institution": "Sri Vidya Mandir Senior Secondary School, Salem",
+          "degree": "HSC (Percentage: 77.67%)",
+          "year": "2022 - 2023"
+        },
+        {
+          "institution": "Sri Vidya Mandir Senior Secondary School, Salem",
+          "degree": "SSLC (Percentage: 86.5%)",
+          "year": "2020 - 2021"
+        }
+      ],
+      "experience": [
+        {
+          "company": "TANTRANSCO – Salem Operation Circle",
+          "role": "Industrial Intern - K.R.Thoppur 400KV Substation",
+          "duration": "05 June - 14 June 2026",
+          "highlights": [
+            "Gained practical exposure to high-voltage substation operations, equipment, and protection systems.",
+            "Developed understanding of safety protocols, transmission infrastructure, and industrial work practices."
+          ]
+        },
+        {
+          "company": "Titan Company Limited, Hosur",
+          "role": "Inplant Trainee - Case PPC (Watches Division)",
+          "duration": "16 June - 21 June 2025",
+          "highlights": [
+            "Gained practical exposure to production planning, assembly operations, and quality control in the watches manufacturing unit.",
+            "Developed understanding of workflow coordination, inventory management, and industrial work practices."
+          ]
+        }
+      ],
+      "certifications": [
+        "Java Programming Fundamentals - INFOSYS SPRINGBOARD",
+        "Data Structures & Algorithms (Java) - INFOSYS SPRINGBOARD",
+        "Computational Problem Solving – INFOSYS SPRINGBOARD",
+        "Database Management Systems - INFOSYS SPRINGBOARD",
+        "Introduction to Internet of Things - IIT Kharagpur NPTEL",
+        "Cloud Computing – IIT Kharagpur NPTEL",
+        "Sensors and Actuators - IIT Kharagpur NPTEL",
+        "Design Thinking – A Primer - IIT Kharagpur NPTEL"
+      ],
+      "projects": [
+        "Electro Path – BLE-Based Indoor Object Detection System (ESP32, BLE, C, RSSI Proximity)",
+        "Smart Voice-Alert Battery Monitoring System (ESP8266, C, IoT Monitoring, Wi-Fi)"
+      ],
+      "rawText": "REETHIKA G\nLocation: Salem, Tamil Nadu\nE-Mail Id: reethikagopi5@gmail.com\nMobile No: 6381375871\nLinkedln: www.linkedin.com/in/reethika-g-27ab0a294\nGitHub: https://github.com/reethikagopi5-pixel\n\nEDUCATION\nB.E. Electrical and Electronics Engineering (2023–2027)\nSona College of Technology, Salem | CGPA: 8.645\nHSC (2022–2023) | Sri Vidya Mandir Senior Secondary School, Salem | Percentage: 77.67%\nSSLC (2020–2021) | Sri Vidya Mandir Senior Secondary School, Salem | Percentage: 86.5%\n\nSKILLS\nCore Areas: Digital Electronics - Logic Gates, Flip-Flops, Control Systems - Transfer Function, Time Response, Electrical Machines – Induction Motor, DC Motor, Transformer Operation\nKey strengths: Problem-Solving, Quick Learner, Adaptability\n\nAREA OF INTEREST\n• Power Systems\n• Electrical Drives\n• SQL (DBMS)\n\nCO-CURRICULAR ACTIVITIES\n• Qualified – Aptithon 2025 (Aptitude Marathon)\n• Top 30 – Engineers’ Day Contest 2024 (Imagecon Academy)\n• 3rd Prize – Wires & Sparks event in Circuit Crafters 2023\n\nLANGUAGES KNOWN\nEnglish, Tamil, Hindi, German, Telugu, Kannada\n\nCAREER OBJECTIVE\nTo obtain a position in a growth-oriented organization where I can apply my analytical and technical skills to contribute to innovative engineering solutions.\n\nINTERNSHIP\nTANTRANSCO – Salem Operation Circle, Salem | K.R.Thoppur 400KV Substation (05 June – 14 June 2026)\nTitan Company Limited, Hosur | Case PPC Watches Division (16 June – 21 June 2025)\n\nPROJECTS\nElectro Path – BLE-Based Indoor Object Detection System (ESP32, BLE, C, RSSI)\nSmart Voice-Alert Battery Monitoring System (ESP8266, C, IoT, Wi-Fi)\n\nCERTIFICATIONS\nJava Programming Fundamentals, Data Structures & Algorithms (Java), Computational Problem Solving, DBMS - INFOSYS SPRINGBOARD\nIntroduction to Internet of Things, Cloud Computing, Sensors and Actuators, Design Thinking – IIT Kharagpur NPTEL"
+    },
+    "filePath": "/app/applet/uploads/resume-1784875858308-145526333.pdf"
+  }
+]
