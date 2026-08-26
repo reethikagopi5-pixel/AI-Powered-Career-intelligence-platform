@@ -4,7 +4,7 @@
     "email": "reethikagopi5@gmail.com",
     "name": "Reethika G",
     "targetRole": "Electrical & Electronics Engineer / Software Developer",
-    "passwordHash": "$2b$10$E5FKJng1GaLuNNnCLHey9ORVmwlMupHkq4tzQvxs5Fu1EYi0dtv6O",
+    "passwordHash": "$2b$10$WeGl/toJnKE.wuL5gBwaueFXZ0b9uUP1kyaLPDMUUvl0O1TZJ7zYO",
     "phone": "6381375871",
     "college": "Sona College of Technology, Salem",
     "education": "B.E. Electrical and Electronics Engineering (CGPA: 8.645, 2023–2027)",
@@ -46,5 +46,17 @@
       "Software Development"
     ],
     "profileCompletion": 95
+  },
+  {
+    "id": "usr_mt5rnq4im76f",
+    "email": "reethikagopi@gmail.com",
+    "name": "Reethika",
+    "targetRole": "Software Engineer",
+    "passwordHash": "$2b$10$WeGl/toJnKE.wuL5gBwaueFXZ0b9uUP1kyaLPDMUUvl0O1TZJ7zYO",
+    "skills": [],
+    "certifications": [],
+    "projects": [],
+    "careerInterests": [],
+    "profileCompletion": 40
   }
 ]

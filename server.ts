@@ -99,7 +99,53 @@ function authenticateToken(req: AuthRequest, res: Response, next: NextFunction):
   }
 }
 
+function requireAdmin(req: AuthRequest, res: Response, next: NextFunction): void {
+  if (!req.user || req.user.email.toLowerCase() !== 'reethikagopi5@gmail.com') {
+    res.status(403).json({ error: 'Access Denied - Administrator Access Required' });
+    return;
+  }
+  next();
+}
+
 // ================= AUTH ENDPOINTS =================
+
+// Admin Login Route
+app.post('/api/admin/login', (req: Request, res: Response) => {
+  try {
+    const { email, password } = req.body;
+    if (!email || !password) {
+      res.status(400).json({ error: 'Email and password are required' });
+      return;
+    }
+
+    const cleanEmail = email.trim().toLowerCase();
+    if (cleanEmail !== 'reethikagopi5@gmail.com') {
+      res.status(403).json({ error: 'Access Denied - Administrator Access Required' });
+      return;
+    }
+
+    const user = findUserByEmail(cleanEmail);
+    if (!user || !user.passwordHash) {
+      res.status(401).json({ error: 'Access Denied - Administrator Access Required' });
+      return;
+    }
+
+    const isValid = bcrypt.compareSync(password, user.passwordHash);
+    if (!isValid) {
+      res.status(401).json({ error: 'Access Denied - Administrator Access Required' });
+      return;
+    }
+
+    const { passwordHash: _, ...profile } = user;
+    const token = jwt.sign({ userId: profile.id, email: profile.email, isAdmin: true }, JWT_SECRET, {
+      expiresIn: '7d',
+    });
+
+    res.json({ token, user: profile, isAdmin: true });
+  } catch (err: any) {
+    res.status(403).json({ error: 'Access Denied - Administrator Access Required' });
+  }
+});
 
 // Register
 app.post('/api/auth/register', (req: Request, res: Response) => {

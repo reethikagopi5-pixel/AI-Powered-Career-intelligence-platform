@@ -217,14 +217,11 @@ export const DashboardLayout: React.FC<DashboardLayoutProps> = ({
         {/* Dashboard Workspace */}
         <main className="flex-1 overflow-y-auto p-4 md:p-10 bg-blueprint bg-[#F7F4EB]">
           <div className="max-w-7xl mx-auto space-y-6">
-            {/* Page Title & Plan Banner */}
+            {/* Page Title */}
             <div className="mb-6">
               <h2 className="text-2xl md:text-3xl font-extrabold text-[#0F172A]">
                 Welcome back, {user.name}
               </h2>
-              <p className="text-xs md:text-sm text-slate-600 mt-1">
-                Thursday's plan: run your first resume analysis to unlock your dashboard.
-              </p>
             </div>
 
             {activeTab === 'master' && (

@@ -72,6 +72,9 @@ export const api = {
   login: (data: { email: string; password: string }) =>
     fetchWithAuth('/auth/login', { method: 'POST', body: JSON.stringify(data) }),
 
+  adminLogin: (data: { email: string; password: string }): Promise<{ token: string; user: UserProfile; isAdmin: boolean }> =>
+    fetchWithAuth('/admin/login', { method: 'POST', body: JSON.stringify(data) }),
+
   getMe: (): Promise<{ user: UserProfile }> => fetchWithAuth('/auth/me'),
 
   updateProfile: (profileData: Partial<UserProfile>): Promise<{ user: UserProfile }> =>
