@@ -35,7 +35,7 @@ import { UserProfile, ResumeRecord, AnalysisResult } from './src/types.js';
 const currentDirname = typeof __dirname !== 'undefined' ? __dirname : process.cwd();
 
 const JWT_SECRET = process.env.JWT_SECRET || 'careerai-jwt-secret-key-2026';
-const PORT = 3000;
+const PORT = process.env.PORT ? parseInt(process.env.PORT, 10) : 3000;
 
 const app = express();
 app.use(express.json());
@@ -1368,23 +1368,31 @@ app.get('/api/db/sqlite', async (_req: Request, res: Response) => {
 
 // Serve frontend in production or integrate with Vite dev server
 async function startServer() {
-  if (process.env.NODE_ENV !== 'production') {
+  const distPath = path.join(process.cwd(), 'dist');
+  const hasDist = fs.existsSync(path.join(distPath, 'index.html'));
+  const isProduction = process.env.NODE_ENV === 'production' || !!process.env.RENDER || hasDist;
+
+  if (hasDist || isProduction) {
+    app.use(express.static(distPath));
+    app.get('*', (_req, res) => {
+      const indexPath = path.join(distPath, 'index.html');
+      if (fs.existsSync(indexPath)) {
+        res.sendFile(indexPath);
+      } else {
+        res.status(404).send('Application is building or dist/index.html is missing. Please run "npm run build".');
+      }
+    });
+  } else {
     const { createServer: createViteServer } = await import('vite');
     const vite = await createViteServer({
-      server: { middlewareMode: true },
+      server: { middlewareMode: true, allowedHosts: true },
       appType: 'spa',
     });
     app.use(vite.middlewares);
-  } else {
-    const distPath = path.join(process.cwd(), 'dist');
-    app.use(express.static(distPath));
-    app.get('*', (_req, res) => {
-      res.sendFile(path.join(distPath, 'index.html'));
-    });
   }
 
   app.listen(PORT, '0.0.0.0', () => {
-    console.log(`CareerAI Server running on http://0.0.0.0:${PORT}`);
+    console.log(`CareerAI Server running on http://localhost:${PORT}`);
   });
 }
 
